@@ -1,0 +1,18 @@
+[
+  {
+    "prompts": ["a name", "a noun", "an adverb", "adjective"],
+    "story": "Once upon a time someone called %s ate a %s flavoured sandwich which made him feel all %s inside. It was a %s day."
+  },
+  {
+    "prompts": ["a day of the week", "a plural noun", "an adverb", "noun"],
+    "story": "Last week %s, a group of %s went on an adventure.  By the end of it, they had %s saved the %s!"
+  },
+  {
+    "prompts": ["a movie title", "a name", "an adverb", "fictional place"],
+    "story": "My favorite movie is %s.  I love it because of the main character %s, the %s story, and because everyone ends up in %s."
+  },
+  {
+    "prompts": ["a noun", "a name", "an adjective", "another name"],
+    "story": "There once was a %s called %s who searched far and wide for the mythical %s of %s."
+  }
+]
